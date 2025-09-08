@@ -4,6 +4,7 @@
     <h3 align='center'>Personal implementation version</h3>
     <div align="center">
       <a href='https://stanford-cs336.github.io/spring2025/'><img src='https://img.shields.io/badge/CS336-Spring2025-brown.svg?'></a>
+      <a href='README.zh-CN.md'><img src='https://img.shields.io/badge/中文-blue.svg?'></a>
 	  </div>
     <p align='center'>
         Thank you for this excellent course! ⭐
@@ -22,7 +23,6 @@ This course is exceptionally rigorous and well-designed—it guides students thr
 
 I worked intermittently over a period of time and completed most of the assignment tasks. However, due to limited resources (lacking a GPU with sufficient memory), I skipped a few parts. For the sake of completeness, I’ve organized and shared the code I developed as a record of my learning. Although several assignments are placed in the same repository, each was originally an independent project, and instructions for each can be found in their respective directories.
 
-**If you find any mistakes, please feel free to reach out and discuss!**
 
 
 
@@ -34,9 +34,6 @@ I worked intermittently over a period of time and completed most of the assignme
 | [Data](https://github.com/stanford-cs336/assignment4-data/tree/main) | 1.The Common Crawl Dataset                                   | [writeup.md](assignment4-data/writeup.md)                    |
 | [Alignment and Reasoning RL](https://github.com/stanford-cs336/assignment5-alignment) | 1.SFT<br>2.GRPO<br>3.DPO                                     | [writeup.md](assignment5-alignment/writeup.md)<br>[writeup_sup.md](assignment5-alignment/writeup_sup.md) |
 
-
-
-> If you find any mistakes, please feel free to open an issue or submit a pull request. I will be happy to fix it.
 
 
 

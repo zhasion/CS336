@@ -4,6 +4,7 @@
     <h3 align='center'>个人实现版本</h3>
     <div align="center">
       <a href='https://stanford-cs336.github.io/spring2025/'><img src='https://img.shields.io/badge/CS336-Spring2025-brown.svg?'></a>
+      <a href='README.md'><img src='https://img.shields.io/badge/English-blue.svg?'></a>
 	  </div>
     <p align='center'>
         非常感谢这门优秀的课程! ⭐
